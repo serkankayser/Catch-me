@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\serkan kayser\source\repos\clasa\clasa\source.cpp(630): warning C4715: 'verificaTouch': not all control paths return a value
+  clasa.vcxproj -> C:\Users\Serkan Kayser\source\repos\clasa\Debug\clasa.exe
